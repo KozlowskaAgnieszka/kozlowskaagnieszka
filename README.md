@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### After many years of working in Digital Marketing, I’ve decided to switch my career and pursue my old passion - programming. My goal is to succeed as a FrontEnd Developer and to achieve it, I’ve started intensive learning - I’ve completed postgraduate studies, took part in a number of trainings in both programming and testing, and I continue to expand my knowledge on my own 🔭.
+
+### It's just a beggining of my journey... 😄
+
 <!--
 **KozlowskaAgnieszka/kozlowskaagnieszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
