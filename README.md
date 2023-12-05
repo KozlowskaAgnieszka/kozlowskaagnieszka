@@ -4,5 +4,5 @@ After years of hustling in the digital marketing world, I've had a light-bulb mo
 
 #### This is just the start of my coding adventure... and I'm already loving the ride! 😄
 
-## Oh, and let's connect on [LinkedIn](https://www.linkedin.com/in/agni-kozlowska/)!
+##### Oh, and let's connect on [LinkedIn](https://www.linkedin.com/in/agni-kozlowska/)!
 
